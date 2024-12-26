@@ -11,7 +11,10 @@ This is a Simple Calculator Application built using Java and Swing. The applicat
 
 PROJECT OBJECTIVE:
 The objective of this project is to create a basic calculator that can handle four main arithmetic operations with a clean and simple graphical interface.
+
 ![TASK2](https://github.com/user-attachments/assets/6b6c9039-0b43-4fab-b819-689d2238306b)
+
+
 
 KEY ACTIVITIES:
 UI Design:- Designed a graphical user interface (GUI) with buttons for numbers, operators, and functions.
